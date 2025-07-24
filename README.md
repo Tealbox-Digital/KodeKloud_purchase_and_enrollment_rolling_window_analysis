@@ -4,4 +4,5 @@
 Purchase_data_rolling_window_functions
 
 Course enrollment_rolling_window_functions
+
 ([Click Here](https://deepwiki.com/Tealbox-Digital/KodeKloud_purchase_and_enrollment_rolling_window_analysis/2-documentation-and-external-references))
